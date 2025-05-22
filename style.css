@@ -9,6 +9,9 @@ body {
   outline: 1rem solid black;
 }
 
+ .choose  {
+  font-weight: bold;
+}
 input,
 button {
   font-family: inherit;
